@@ -4,7 +4,7 @@
 
 This project demonstrates how to integrate and run a local LLaMA 3 language model using the langchain_ollama Python package within a Docker container environment and uv. It showcases a simple use case where the model acts as a helpful assistant that translates English sentences into Spanish.
 
-Article: [LangChain with Ollama and Docker]()
+Article: [LangChain with Ollama and Docker](https://osmandi.com/blog/instalar-y-configurar-archlinux-en-wsl2.html)
 
 ## Requirements
 
@@ -15,6 +15,9 @@ Article: [LangChain with Ollama and Docker]()
 ```Bash
 sh ./run.sh
 ```
+
+Output example:
+![](output_langchain_ollama.png)
 
 ## References
 
